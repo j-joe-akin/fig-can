@@ -12,10 +12,10 @@ We think making the repeats of single experiments more transparent will do many 
 
 **Getting started**
 
-If you graphic design, click here.
+If you graphic design, click [here](/CONTRIBUTING.md).
 
-If you UX, click here.
+If you UX, click [here](/CONTRIBUTING.md).
 
-If you project manage, click here.
+If you project manage, click [here](/CONTRIBUTING.md).
 
-If you AngularJS/jQuery/JavaScript, click here.
+If you AngularJS/jQuery/JavaScript, click [here](/CONTRIBUTING.md).
