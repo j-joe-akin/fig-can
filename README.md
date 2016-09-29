@@ -1,4 +1,5 @@
-# fig-can
+# FigCan
+
 FigureCanvas is a seamless way to visualize repeats of scientific experiments. We’re making it easy to see how robust a given scientific result is.
 
 Meet Suzie. She’s a scientist, doing science….
@@ -10,12 +11,9 @@ My name is Joe. My friend Girija and I are scientists, and we believe in open sc
 
 We think making the repeats of single experiments more transparent will do many amazing and incredible things to our world. For example, we can figure(canvas) out just how bad and just how good coffee/wine/chocolate is for our health.
 
-**Getting started**
+## Getting started for contributors
 
-If you graphic design, click [here](CONTRIBUTING.md#for-graphic-designers).
-
-If you UX, click [here](CONTRIBUTING.md#for-ux-specialists).
-
-If you project manage, click [here](CONTRIBUTING.md#for-project-managers).
-
-If you AngularJS/jQuery/JavaScript, click [here](CONTRIBUTING.md#for-developers).
+- [For graphic designers](CONTRIBUTING.md#for-graphic-designers)
+- [For UX specialists](CONTRIBUTING.md#for-ux-specialists)
+- [For project managers](CONTRIBUTING.md#for-project-managers)
+- [For AngularJS/jQuery/JavaScript developers](CONTRIBUTING.md#for-developers)
