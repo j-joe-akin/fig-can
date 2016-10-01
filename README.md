@@ -1,5 +1,5 @@
 # fig-can
-FigureCanvas is a seamless way to visualize repeats of scientific experiments. We’re making it easy to see how robust a given scientific result is.
+FigureCanvas is a seamless way to visualize repeats of scientific experiments. We’re making it easy to see how robust a given scientific result is. It's like version control for any particular experiment, or scientific hyopthesis.
 
 Meet Suzie. She’s a scientist, doing science….
 ![Intro Cartoon](/img/suzie_the_scientist.jpg)
