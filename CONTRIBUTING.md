@@ -8,10 +8,10 @@
 
 # For project managers
 
-1. Please review our ROADMAP
+1. Please review our ROADMAP.
 
 # For developers
 
-1. Create “sandbox” in browser window/tab which accepts image files by drag-and-drop from another page (import)
-2. Upon drag and drop other nearby information is collected and displayed along with figure as an additional object
-3. Test “sandbox” functionality with images imported from a variety of open science repositories; click here for a list of open science, single-figure repositories
+1. Create “sandbox” in browser window/tab which accepts image files by drag-and-drop from another page (import).
+2. Upon drag and drop other nearby information is collected and displayed along with figure as an additional object.
+3. Test “sandbox” functionality with images imported from a variety of open science repositories; click here for a list of open science, single-figure repositories.
