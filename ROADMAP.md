@@ -1,5 +1,4 @@
-# Here is our roadmap! 
-
+Here is our roadmap! 
 
 # Short-term Figure Canvas milestones:
 
