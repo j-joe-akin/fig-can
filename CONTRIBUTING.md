@@ -8,7 +8,7 @@
 
 # For project managers
 
-1. Please review our [ROADMAP](../ROADMAP.md)
+1. Please review our [ROADMAP](ROADMAP.md)
 
 # For developers
 
