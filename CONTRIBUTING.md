@@ -4,7 +4,7 @@
 
 # For UX specialists
 
-1. We need a mockup of 5 figures with 8 related parameter/value pairs listed for each figure. Figures will share a majority of the same parameters (e.g. cell concentration, plate type, etc.); some figures will share only a few; some parameters will only be listed for 1 figure.
+1. Check out our [mockup](fig-can-mockup.jpg) and suggest changes!
 
 # For project managers
 
