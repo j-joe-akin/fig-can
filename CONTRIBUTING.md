@@ -1,6 +1,6 @@
 # For graphic designers
 
-1. We need a FigureCanvas logo; click here for inspirations.
+1. We need a Figure Canvas banner image; click [here](img/fig-can-mockup.png) to see an initial attempt.
 
 # For UX specialists
 
