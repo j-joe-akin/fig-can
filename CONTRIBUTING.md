@@ -9,7 +9,7 @@
 # For project managers
 
 1. Please review our [ROADMAP](ROADMAP.md)
-2. Check out our [OpenCanvas](img/fig_can_OC.jpg), our business plan laid out in an easy format!
+2. Check out our [OpenCanvas](img/fig_can_OC.png), our business plan laid out in an easy format!
 
 # For developers
 
