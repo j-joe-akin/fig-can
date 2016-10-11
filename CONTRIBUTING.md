@@ -1,6 +1,6 @@
 # For graphic designers
 
-1. We need a Figure Canvas banner image; click [here](img/fig-can-mockup.png) to see an initial attempt.
+1. We need a Figure Canvas banner image; click [here](img/figure_canvas_thumb_clean.png) to see an initial attempt.
 
 # For UX specialists
 
