@@ -4,7 +4,7 @@
 
 # For UX specialists
 
-1. Check out our [mockup](fig-can-mockup.jpg) and suggest changes!
+1. Check out our [mockup](img/fig-can-mockup.png) and suggest changes!
 
 # For project managers
 
