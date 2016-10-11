@@ -18,3 +18,7 @@ Check out our mockup [here](img/fig-can-mockup.png)!
 - [For UX specialists](CONTRIBUTING.md#for-ux-specialists)
 - [For project managers](CONTRIBUTING.md#for-project-managers)
 - [For AngularJS/jQuery/JavaScript developers](CONTRIBUTING.md#for-developers)
+
+## Code of conduct
+
+We adhere to and support Mozilla participation [guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
