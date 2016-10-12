@@ -2,8 +2,7 @@ Here is our roadmap!
 
 # Short-term Figure Canvas milestones:
 
-1. Create “sandbox” which accepts image files by drag-and-drop from another page (import)
-  * add feature to figcan.html: drag-and-drop image import
+1. Create “sandbox” which accepts image files by drag-and-drop from another page (import) and allow arbitrary positioning of images
 2. Test “sandbox” functionality with images imported from a variety of open science repositories
 3. Test user experience with import of images 
 4. Brainstorm what experimental parameters can be imported with the image into “sandbox”
