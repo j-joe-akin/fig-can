@@ -17,8 +17,9 @@ Check out our mockup [here](img/fig-can-mockup.png)!
 - [For citizen scientists](CONTRIBUTING.md#for-citizen-scientists)
 - [For career scientists](CONTRIBUTING.md#for-career-scientists)
 - [For graphic designers and UX specialists](CONTRIBUTING.md#for-graphic-designers-and-ux-specialists)
+- [For developers](CONTRIBUTING.md#for-developers)
+- [For those curious about open science](CONTRIBUTING.md#for-those-curious-about-open-science)
 - [For project managers](CONTRIBUTING.md#for-project-managers)
-- [For AngularJS/jQuery/JavaScript developers](CONTRIBUTING.md#for-developers)
 
 ## Code of conduct
 
