@@ -14,7 +14,7 @@
 
 3. Explain the key differences between the results
 
-# For graphic designers/UX specialists
+# For graphic designers and UX specialists
 
 1. Review [mockups](img/figure_canvas_thumb_clean.png) and provide feedback
 
