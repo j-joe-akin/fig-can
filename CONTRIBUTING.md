@@ -28,6 +28,10 @@
 
 3. Test “sandbox” functionality with images imported from a variety of open science repositories; click here for a list of open science, single-figure repositories
 
+# For those curious about open science
+
+1. Describe yourself as a persona and why you are interested in open science
+
 # For project managers
 
 1. Please review our [ROADMAP](ROADMAP.md)
