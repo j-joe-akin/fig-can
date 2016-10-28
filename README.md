@@ -15,6 +15,7 @@ Check out our mockup [here](img/fig-can-mockup.png)!
 ## Getting started for contributors
 
 - [For citizen scientists](CONTRIBUTING.md#for-citizen-scientists)
+- [For career scientists](CONTRIBUTING.md#for-career-scientists)
 - [For graphic designers and UX specialists](CONTRIBUTING.md#for-graphic-designers-and-UX-specialists)
 - [For project managers](CONTRIBUTING.md#for-project-managers)
 - [For AngularJS/jQuery/JavaScript developers](CONTRIBUTING.md#for-developers)
