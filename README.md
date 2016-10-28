@@ -14,7 +14,7 @@ Check out our mockup [here](img/fig-can-mockup.png)!
 
 ## Getting started for contributors
 
-- [For graphic designers/UX specialists](CONTRIBUTING.md#for-graphic-designers-and-UX-specialists)
+- [For graphic designers and UX specialists](CONTRIBUTING.md#for-graphic-designers-and-UX-specialists)
 - [For project managers](CONTRIBUTING.md#for-project-managers)
 - [For AngularJS/jQuery/JavaScript developers](CONTRIBUTING.md#for-developers)
 
